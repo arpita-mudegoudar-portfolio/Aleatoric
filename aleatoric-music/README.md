@@ -6,7 +6,7 @@ Name: Arpita Palakshappa Mudegoudar
 
 This project generates aleatoric music using random song structures, chord loops, keys, tempo and melody notes. The melody is generated using sawtooth waves. The program can either play the song directly or write it to a WAV file.
 
-# Features Implemented
+## Features Implemented
 Random song structure selection:
 AABB/CC
 ABAB/CD
@@ -34,7 +34,7 @@ The project was successful. The program generates a random song structure, key, 
 
 Possible future improvements include implementing bass lines, percussion, more advanced rhythm patterns, MIDI output and additional harmony options to make the generated music sound more realistic and varied.
 
-# Files Included
+## Files Included
 aleatoric.py
 README.md
 ALEATORIC.wav
