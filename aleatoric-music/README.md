@@ -26,6 +26,14 @@ Install dependencies:
 
 pip install numpy scipy sounddevice
 
+## How It Went
+
+The project was successful. The program generates a random song structure, key, tempo, chord progression and melody each time it runs. The generated music can be played directly through the speakers or exported as a WAV file. Testing confirmed that the program produces valid audio output and creates the required ALEATORIC.wav file.
+
+## Future Improvements
+
+Possible future improvements include implementing bass lines, percussion, more advanced rhythm patterns, MIDI output and additional harmony options to make the generated music sound more realistic and varied.
+
 # Files Included
 aleatoric.py
 README.md
