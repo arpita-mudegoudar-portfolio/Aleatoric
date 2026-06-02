@@ -1,6 +1,6 @@
 # Aleatoric Music Generator
 
-Name: Arpita Palakshappa Mudegoudar, 977936850
+Name: Arpita Palakshappa Mudegoudar
 
 ## Description
 
